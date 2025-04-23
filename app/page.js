@@ -17,7 +17,7 @@ export default function Home() {
         }
       `}</style>
       <h1>Welcome to Next.js!</h1>
-      <p>This is a simple Next.js application. deployed and configured by <strong>Vercel</strong> environment</p>
+      <p>This is a simple Next.js application. deployed and configured by <strong>gh pages</strong> environment</p>
     </main>
   );
 }
