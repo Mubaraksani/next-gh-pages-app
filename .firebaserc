@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "next-netlify-ci-cd"
+  }
+}
